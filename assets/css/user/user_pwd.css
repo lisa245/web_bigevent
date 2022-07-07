@@ -1,0 +1,19 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #f0f2f5;
+  color: rgba(0,0,0,.85);
+  padding: 15px; 
+}
+
+.layui-card {
+  margin: 15px;
+}
+
+.layui-input {
+  width: 500px;
+}
